@@ -2,6 +2,12 @@
 e o programa imprima na tela o seguinte dado:
  Olá, meu nome é(nome 1) e meu partner do CodeClub é(nome2)
 */
-let nome1 = "Thiago";
+/*let nome1 = "Thiago";
 let nome2 = "e meu partner do DevClub é Mateus";
-console.log("Olá meu nome é " + nome1 + "," + " e meu partner do DevClub é" + nome2)
+console.log("Olá meu nome é " + nome1 + "," + " e meu partner do DevClub é" + nome2)*/
+
+
+const firstName = "Thiago"
+const seccondName = "Mateus"
+const names = `Olá, meu nome é ${firstName}, e meu partner do Devclub é ${seccondName}`
+console.log(names)

@@ -4,7 +4,7 @@ let pessoa = {
     profissao: "Programador",
     Cidade: "Samambaia",
     Filhos: "Não",
-    Carro: "Não",
+    Carro: "Não"
 
 };
 let pessoa1 = {
@@ -12,27 +12,28 @@ let pessoa1 = {
     profissao: "tec-enfermagem",
     Cidade: "Samambaia",
     Filhos: "Não",
-    Carro: "Não",
+    Carro: "Não"
 
 }; let pessoa2 = {
     nome: "Geiza",
     profissao: "Empresária",
     Cidade: "Ponte Alta",
     Filhos: "Sim ",
-    Carro: "D-20",
+    Carro: "D-20"
 
 }; let pessoa3 = {
     nome: "Tereza",
     profissao: "Dona de casa",
     Cidade: "Ponte Alta",
     Filhos: "Sim",
-    Carro: "Onix sedan",
+    Carro: "Onix sedan"
 
 }; let pessoa4 = {
     nome: "Rafa",
     profissao: "Estagiário",
     Cidade: "Núcleo Bandeirante",
     Filhos: "Não",
-    Carro: "Não",
+    Carro: "Não"
 
-};
+}
+console.log(pessoa4)
